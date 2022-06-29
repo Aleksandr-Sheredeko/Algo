@@ -1,0 +1,5 @@
+create t1; insert    t1   "  kkk jjj jj jjj lk";print_indeX  t1;insert t1 "hghg kkk lk";
+search t1 where "kkk";search t1 where "jjj";
+search t1 where "j" -"jjjj";search t1 where "jjj" <1> "jj";
+ insert    t1   "  k5kk jjj jJ j5jj l5k";search t1 where "jJj" <1> "jJ";
+ pRint_indeX  t1;search t1 where "lk" -"ll";
